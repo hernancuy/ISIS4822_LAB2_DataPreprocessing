@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Puntaje promedio Pruebas Saber 11 - Matemáticas": [
+            {
+                "year": 2010,
+                "value": 48.795
+            },
+            {
+                "year": 2011,
+                "value": 44.586
+            },
+            {
+                "year": 2012,
+                "value": 44.884
+            },
+            {
+                "year": 2013,
+                "value": 43.746
+            },
+            {
+                "year": 2014,
+                "value": 48.257
+            },
+            {
+                "year": 2015,
+                "value": 48.28
+            },
+            {
+                "year": 2016,
+                "value": 47.532
+            },
+            {
+                "year": 2017,
+                "value": 48.31
+            },
+            {
+                "year": 2018,
+                "value": 48.41
+            },
+            {
+                "year": 2019,
+                "value": 48.521
+            },
+            {
+                "year": 2020,
+                "value": 49.033
+            }
+        ],
+        "Puntaje promedio Pruebas Saber 11 - Lectura crítica": [
+            {
+                "year": 2010,
+                "value": 48.937
+            },
+            {
+                "year": 2011,
+                "value": 44.648
+            },
+            {
+                "year": 2012,
+                "value": 45.209
+            },
+            {
+                "year": 2013,
+                "value": 45.935
+            },
+            {
+                "year": 2014,
+                "value": 48.031
+            },
+            {
+                "year": 2015,
+                "value": 48.152
+            },
+            {
+                "year": 2016,
+                "value": 49.569
+            },
+            {
+                "year": 2017,
+                "value": 51.698
+            },
+            {
+                "year": 2018,
+                "value": 50.805
+            },
+            {
+                "year": 2019,
+                "value": 49.96
+            },
+            {
+                "year": 2020,
+                "value": 50.067
+            }
+        ]
+    },
+    "min": 43.746,
+    "max": 51.698
+}
